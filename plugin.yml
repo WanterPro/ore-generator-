@@ -1,0 +1,9 @@
+name: OreSpawnerShop
+author: misael38
+main: OreSpawnerShop\Main
+version: 1.0.0
+api: [3.0.0]
+depend: ["EconomyAPI"]
+commands:
+    osshop:
+        description: Buy a Ore Spawner!
